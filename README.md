@@ -6,4 +6,4 @@ First, you need to get your API key from here: https://steamcommunity.com/dev/ap
 Next, you need to edit 'WebPI.cs' and change the value of apiKey to yours.
 
 # Screenshot
-![Screenshot of the GUI](http://url/to/img.png)
+![Screenshot of the GUI](https://imgur.com/a/0KgSaZm)
