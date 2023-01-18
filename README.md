@@ -9,6 +9,3 @@ And you can get the app ID of the game you want from this website: https://steam
 
 # Note
 This only works for public profiles, if it's private then Steam refuses to give statistics.
-
-# Screenshot
-https://imgur.com/a/0KgSaZm
